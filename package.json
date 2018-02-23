@@ -1,0 +1,24 @@
+{
+  "name": "usernames",
+  "version": "1.0.0",
+  "description": "Random username generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Javascipt/usernames.git"
+  },
+  "keywords": [
+    "random",
+    "usernames",
+    "generator"
+  ],
+  "author": "Khalid REHIOUI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Javascipt/usernames/issues"
+  },
+  "homepage": "https://github.com/Javascipt/usernames#readme"
+}
